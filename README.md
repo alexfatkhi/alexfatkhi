@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Alex%20Fatkhi&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20%C2%B7%20Mobile%20%C2%B7%20Machine%20Learning&descAlignY=55&descSize=18&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Muh.%20Fatkhi%20Alexander&fontSize=54&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=460&lines=Full-Stack+Developer;Mobile+%26+Web+Enthusiast;Machine+Learning+Explorer;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=460&lines=Full+Stack+Web+Developer" alt="Typing SVG" />
 
 <br/>
 
@@ -11,24 +11,6 @@
 <img src="https://komarev.com/ghpvc/?username=alexfatkhi&label=Profile+views&color=7aa2f7&style=for-the-badge" alt="Profile views" />
 
 </div>
-
----
-
-## 🧑‍💻 About Me
-
-```yaml
-name:      Alex Fatkhi
-role:      Full-Stack Developer
-focus:     [ mobile apps, web apps, machine learning ]
-building:  Video Alarm — a macOS alarm that plays video instead of beeping
-learning:  something new in every single project
-contact:   alexanderfatkhi@gmail.com
-```
-
-- 🔭 Suka bikin aplikasi **mobile**, **web**, dan eksperimen **machine learning**
-- 🖥️ Baru saja bikin **Video Alarm** — alarm macOS yang memutar video
-- 🌱 Terus belajar hal baru di setiap project
-- 📫 Reach me: **alexanderfatkhi@gmail.com**
 
 ---
 
@@ -84,14 +66,6 @@ contact:   alexanderfatkhi@gmail.com
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexfatkhi&theme=tokyonight&utcOffset=7" alt="Productive time" height="200" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexfatkhi&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Activity graph" width="100%" />
-
-<br/>
-
-<img src="https://github-trophies.vercel.app/?username=alexfatkhi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 
 </div>
 
